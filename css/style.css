@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    border-radius: 10px;
+}
+.caja1{
+    background-color: orange;
+    padding: 20px;
+}
+.caja2{
+    background-color: #0000FF;
+    padding: 20px;
+    margin: 10px;
+}
+.caja3{
+    background-color: #0044ff;
+    padding: 20px;
+    margin: 10px;
+}
+.caja4{
+    background-color: #0066ff;
+    padding: 20px;
+    margin: 10px;
+}
+.caja5{
+    background-color: #0099ff;
+    padding: 10px;
+}
+.caja6{
+    background-attachment: #00aaff;
+    padding: 10px;
+}
